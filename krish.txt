@@ -1,1 +1,2 @@
-i have created a bug fixing branch
+i have created a bug fixing branch 
+one more bug fixed 
