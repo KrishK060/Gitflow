@@ -2,3 +2,5 @@ i have created a bug fixing branch
 one more bug fixed 
 
 second bug fixed
+
+third bug fixed
