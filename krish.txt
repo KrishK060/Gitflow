@@ -1,4 +1,6 @@
 i have created a bug fixing branch 
 one more bug fixed 
 
-second bug fixed
+second bug fixed 
+
+modifing second bug
