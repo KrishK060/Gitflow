@@ -1,5 +1,12 @@
 this is dhruvsolanki
 this is Raj 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+this is raj
+=======
+>>>>>>> 4bf442a99f54a4d80ee5be5893c8f21d311d0209
+>>>>>>> 237fa9c3126cb25caa0d9119a3b185c320b7ad09
 krish 
 this is krish kalaria
 this is krish kalaria
